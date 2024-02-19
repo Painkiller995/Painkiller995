@@ -82,3 +82,5 @@ Let's connect and collaborate! You can find me on:
 Thank you for visiting my GitHub profile. I'm passionate about using technology to drive innovation and solve real-world problems. If you're interested in collaborating or have any questions, feel free to reach out. Let's build something amazing!
 
 🚀 Happy Coding! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/Painkiller995%7D/count.svg)
