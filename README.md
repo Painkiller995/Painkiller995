@@ -1,88 +1,58 @@
-<h1>Hi there, I'm Fahd Daher 👋</h1>
-     
-<h3>I'm a software developer with a passion for building robust applications and exploring cutting-edge technologies. My journey in the world of code has led me to become acquainted with a wide array of languages and tools, allowing me to craft exceptional software solutions.</h3>
- 
-<h3 align="left">🚀 What I Do</h3>
+# 🚀 Hi, I'm Fahd Daher
+**Software Developer | Architecting Scalable & Robust Solutions**
 
-I have a strong grasp of a multitude of programming languages and frameworks, allowing me to confidently address a variety of challenges and devise innovative solutions.
-
-Here are some of the technologies I'm skilled in:
-
-<p style="padding-top: 25px; padding-bottom: 10px;"  align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"   
-      width="40" height="40" />
-  </a>   
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
-      width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"
-      width="40" height="40" />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Stack-Django_%7C_React_%7C_Docker-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://komarev.com/ghpvc/?username=Painkiller995&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
 
-## 💼 Noteworthy Projects
+---
 
-Explore some of my standout projects that showcase my skills and expertise:
+### 👨‍💻 About Me
+I am a software developer driven by a passion for building robust applications and exploring cutting-edge technologies. I specialize in bridging the gap between complex backend logic and seamless frontend experiences.
 
-☀️ **Aten** (Private Source Code): This ambitious project is powered by a dynamic stack including Django, React, and Docker. It exemplifies my ability to architect and develop complex applications with seamless integration.
+* 🔭 **Current Focus:** Scaling containerized applications.
+* 🌱 **Learning:** Advanced system design and cloud orchestration.
+* 💬 **Ask me about:** Python, React, and why Docker is a game-changer.
 
-## 📚 Learning and Growth
+---
 
-As a dedicated learner, I'm constantly expanding my skill set and staying up-to-date with industry trends. I believe in the power of education and am always excited to embark on new learning journeys.
+### 🛠️ Tech Stack
 
-## 🌐 Connect with Me
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
-Let's connect and collaborate! You can find me on:
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoWidth=20&logoColor=white&style=flat-square)](https://no.linkedin.com/in/fahddaher995)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/fahddaher)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Painkiller995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahd's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Painkiller995&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
-## 🎉 Let's Create Together
+---
 
-Thank you for visiting my GitHub profile. I'm passionate about using technology to drive innovation and solve real-world problems. If you're interested in collaborating or have any questions, feel free to reach out. Let's build something amazing!
+### 💼 Noteworthy Projects
 
-**Visitor Count**
+> [!TIP]
+> **Aten** (Private Source Code)
+> An ambitious full-stack application architected with **Django**, **React**, and **Docker**. This project serves as a hallmark of my ability to integrate complex systems into a unified, containerized workflow.
 
-![Visitor Count](https://profile-counter.glitch.me/Painkiller995/count.svg)
+---
 
-🚀 Happy Coding! 🚀
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://no.linkedin.com/in/fahddaher995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahddaher995" height="30" width="40" /></a>
+<a href="https://twitter.com/fahddaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="fahddaher" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <i>Happy Coding!</i> 🚀
+</p>
