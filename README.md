@@ -36,14 +36,6 @@ I am a software developer driven by a passion for building robust applications a
 
 ---
 
-### 💼 Noteworthy Projects
-
-> [!TIP]
-> **Aten** (Private Source Code)  
-> An ambitious full-stack application architected with **Django**, **React**, and **Docker**. This project serves as a hallmark of my ability to integrate complex systems into a unified, containerized workflow.
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
